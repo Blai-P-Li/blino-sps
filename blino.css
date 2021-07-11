@@ -1,0 +1,120 @@
+html , body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #026212;
+}
+
+.progr{
+
+}
+
+.tet{
+	position: relative;
+}
+.tet label{
+	color: black;
+	padding-left: 27%;
+	padding-top: 5px;
+	opacity: 10%;
+	
+}
+.tet label:hover {
+	color: orange;
+	opacity: 100%;
+	transition: .30s;
+}
+
+.btn{
+	padding-top: 5px;
+	padding-left: 25%;
+}
+
+.bb{
+	font: bold;
+	font-size: 25px;
+	background-color: #00744a;
+	color: black;
+	border:outset 4px #00644a;
+	border-radius: 10px 10px 10px 0px;
+}
+
+.bb:hover{
+	color: yellow;
+	padding-left: 1%;
+	background-color: green;
+	transition: .2s;
+}
+
+.entrya{
+	margin-top: 10px;
+    border:ridge 5px #837e02;
+	border-radius: 0px 0px 20px 20px;
+	width: 45%;
+    background-color: #837e02;	
+    margin-left: 27%;
+}
+
+
+.entr{
+    padding: 20px;
+    padding-left: 60px;
+
+}
+
+.pf{
+   
+	margin-top: 10px;
+    border:ridge 5px yellow;
+	border-radius: 0px 0px 10px 10px;
+	width: 25%;
+    background-color: yellow;
+    margin-left: 37%;
+}
+
+.pf table{
+	padding: 2px;
+	padding-left: 6px;
+}
+
+.mpd{
+	background-color: green;
+}
+
+.bdp{
+	background-color: green;
+	overflow: hidden;
+
+}
+
+
+.mpb{
+	font: bold;
+	font-size: 15px;
+	background-color: #00744a;
+	color: black;
+	border:outset 2px #00644a;
+	border-radius: 0px 0px 10px 0px;
+}
+
+.mpb:hover{
+	color: yellow;
+	background-color: green;
+	
+}
+
+#er{
+	padding-left: 13px;
+	padding-right: 13px;
+}
+
+.psw{
+	background-color: #00744a;
+	border:ridge 10px #00744a;
+	margin-top: 20%;
+	padding-bottom:6px;
+	width: 100%;
+	height: 10%;
+
+}
